@@ -10,14 +10,14 @@ Constructed count vectorized embeddings using co-occurance matrix and used Gensi
 ___
 ## Assignment 2
 Implemented and trained word2vec model with numpy
-<br> [Code](../main/assignment2)
+<br> [Code](../master/assignment2)
 
 ___
 ## Assignment 3
 Implemented and trained neural dependency parser with pytorch
-<br> [Code](../main/assignment3)
+<br> [Code](../master/assignment3)
 ___
 ## Assignment 4
 Implemented and trained neural machine translation system from Cherokee to English with pytorch. Seq2seq LSTM architecture was used to build this.
-<br> [Code](../main/assignment4)
+<br> [Code](../master/assignment4)
 ___
