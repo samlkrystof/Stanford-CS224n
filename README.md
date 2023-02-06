@@ -6,8 +6,7 @@ All video lectures from 2021 can be found [here](https://youtube.com/playlist?li
 
 ## Assignment 1
 Constructed count vectorized embeddings using co-occurance matrix and used Gensim word2vec to study predictions and language biases.
-[Code](../main/assignment1)
-
+[Code](../master/assignment1)
 ___
 ## Assignment 2
 Implemented and trained word2vec model with numpy
